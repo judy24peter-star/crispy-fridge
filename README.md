@@ -1,4 +1,4 @@
-#crispy-fridge
+# crispy-fridge
 Smart Grocery Reminder
  simple AI tool that helps you remember when to buy groceries
  Summary
